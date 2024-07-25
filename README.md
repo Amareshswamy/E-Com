@@ -6,7 +6,7 @@ __E-Commerce Java Full Stack Web Project__
 Overview
 Project Name: E-Commerce Web Application
 
-Tech Stack: Java, Spring Boot, REST APIs, JPA, MySQL, HTML, CSS, JavaScript, React (or Angular/Vue.js)
+Tech Stack: Java, Spring Boot, REST APIs, JPA, MySQL, HTML, CSS, JavaScript, React
 Features
 
 **Product Management:**
